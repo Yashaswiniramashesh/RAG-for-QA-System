@@ -3,7 +3,7 @@ from configs.model_api_details import *
 
 class Inference:
 	def __init__(self):
-		self.client = InferenceClient(api_key=llm_api_key)
+		self.client = InferenceClient(api_key=HF_API_TOKEN)
 
 	def call_llm(self, prompt):
 		messages = [

@@ -2,7 +2,6 @@ from ingestion.ingest_and_retrival import IngestRetrieve
 from inference.llm import Inference
 
 class Chain:
-
     def __init__(self):
         self.inference_obj = Inference()
         self.retrieve_obj = IngestRetrieve()
