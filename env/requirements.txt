@@ -1,0 +1,14 @@
+pandas==2.2.3
+langchain
+PyPDF2==3.0.1
+beautifulsoup4==4.12.3
+jupyter==1.1.1
+langchain-chroma 
+langchain-core
+langchain-huggingface
+spacy==3.8.7
+torch
+transformers
+fastapi==0.116.1
+pydantic
+streamlit==1.49.1
