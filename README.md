@@ -1,6 +1,8 @@
-**##Overview**
+# RAG for Question Answering System
 
-This repository contains a fully reproducible code for RAG pipeline.
+This repository contains a fully reproducible code for the RAG pipeline.
+
+---
 
 ## Prerequisites
 
